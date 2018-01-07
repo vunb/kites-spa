@@ -1,0 +1,20 @@
+{
+    "extensionsLocationCache": false,
+    "httpPort": 8889,
+    "logger": {
+        "console": {
+            "transport": "console",
+            "level": "debug"
+        }
+
+    },
+    "extensions": [
+        "express",
+        "spa-html",
+        "spa-routes"
+    ],
+    "spa-html": {
+        "indexHtml": "dist/index.html",
+        "staticDir": "dist"
+    }
+}
