@@ -26,8 +26,11 @@
     "tape": "^4.6.3"
   },
   "files": [
-    "lib",
+    "dist",
+    "src",
     "index.js",
+    "routes.js",
+    "server.js",
     "kites.config.json"
   ],
   "dependencies": {
