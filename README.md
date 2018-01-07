@@ -18,9 +18,9 @@ npm install
 npm start
 ```
 
-Clone this repository:
+Using git clone:
 
-```
+```bash
 git clone https://github.com/vunb/kites-spa.git new-project
 cd new-project
 npm install
