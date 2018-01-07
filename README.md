@@ -27,7 +27,7 @@ npm install
 npm start
 ```
 
-Then open https://localhost:8889 on your favourite browser!
+Then open http://localhost:8889 on your favourite browser!
 
 # Contributing
 
